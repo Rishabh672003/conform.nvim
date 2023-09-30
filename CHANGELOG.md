@@ -1,5 +1,18 @@
 # Changelog
 
+## [3.8.0](https://github.com/stevearc/conform.nvim/compare/v3.7.2...v3.8.0) (2023-09-30)
+
+
+### Features
+
+* add standardrb ([#91](https://github.com/stevearc/conform.nvim/issues/91)) ([37d0367](https://github.com/stevearc/conform.nvim/commit/37d036704a100ef6e6457be45b4dfc2f8e429572))
+* metatable to make accessing formatters a bit easier ([#89](https://github.com/stevearc/conform.nvim/issues/89)) ([d8170c1](https://github.com/stevearc/conform.nvim/commit/d8170c14db0f3c90fa799db3bca29d3fb3c089c3))
+
+
+### Bug Fixes
+
+* alternations follow notification rules ([3f89275](https://github.com/stevearc/conform.nvim/commit/3f8927532bc8ce4fc4b5b75eab1bf8f1fc83f6b9))
+
 ## [3.7.2](https://github.com/stevearc/conform.nvim/compare/v3.7.1...v3.7.2) (2023-09-29)
 
 
